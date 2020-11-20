@@ -1,0 +1,47 @@
+Machine Learning Interview questions:
+https://www.youtube.com/playlist?list=PLZoTAELRMXVM0zN0cgJrfT6TK2ypCpQdY
+
+Complete DL Playlist:
+https://www.youtube.com/watch?v=9jA0KjS7V_c&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi
+
+Julia Playlist: 
+https://www.youtube.com/watch?v=Bxp1YFA6M4s&list=PLZoTAELRMXVPJwtjTo2Y6LkuuYK0FT4Q-
+
+Complete ML Playlist :
+https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe
+
+Complete NLP Playlist:
+https://www.youtube.com/playlist?list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm
+
+Docker End To End Implementation: 
+https://www.youtube.com/playlist?list=PLZoTAELRMXVNKtpy0U_Mx9N26w8n0hIbs
+
+Live stream Playlist: 
+https://www.youtube.com/playlist?list=PLZoTAELRMXVNxYFq_9MuiUdn2YnlFqmMK
+
+Machine Learning Pipelines: 
+https://www.youtube.com/playlist?list=PLZoTAELRMXVNKtpy0U_Mx9N26w8n0hIbs
+
+Pytorch Playlist: 
+https://www.youtube.com/playlist?list=PLZoTAELRMXVNxYFq_9MuiUdn2YnlFqmMK
+
+Feature Engineering  :
+https://www.youtube.com/playlist?list=PLZoTAELRMXVPwYGE2PXD3x0bfKnR0cJjN
+
+Live Projects        :
+https://www.youtube.com/playlist?list=PLZoTAELRMXVOFnfSwkB_uyr4FT-327noK
+
+Kaggle competition   :
+https://www.youtube.com/playlist?list=PLZoTAELRMXVPiKOxbwaniXjHJ02bdkLWy
+
+Mongodb with Python  :
+https://www.youtube.com/playlist?list=PLZoTAELRMXVN_8zzsevm1bm6G-plsiO1I
+
+MySQL With Python    :
+https://www.youtube.com/playlist?list=PLZoTAELRMXVMd3RF7p-u7ezEysGaG9JmO
+
+Deployment Architectures:
+https://www.youtube.com/playlist?list=PLZoTAELRMXVOPzVJiSJAn9Ly27Fi1-8ac
+
+Amazon sagemaker     :
+https://www.youtube.com/playlist?list=PLZoTAELRMXVONh5mHrXowH6-dgyWoC_Ew
